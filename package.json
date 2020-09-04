@@ -1,6 +1,6 @@
 {
   "name": "cra-bs-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "cra-bs-cli，一个命令就能为您准备好开箱即用的业务开发 APP",
   "main": "index.js",
   "bin": {
